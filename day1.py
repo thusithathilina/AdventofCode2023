@@ -1,3 +1,5 @@
+import re
+
 def day1part2():
     replacements = [("one", "o1e"), ("two", "t2o"), ("three", "th3ee"), ("four", "fo4r"),
                   ("five", "fi5e"), ("six", "s6x"), ("seven", "se7en"), ("eight", "ei8ht"),
